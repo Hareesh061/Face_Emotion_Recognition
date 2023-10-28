@@ -1,0 +1,14 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter
+notebook
+tqdm
+opencv-contrib-python
+
+images          labels
+image/path       happy/angry/ect
+
+
+image_load(grayscale=true)
